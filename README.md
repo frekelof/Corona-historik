@@ -8,7 +8,9 @@ Data som finns representerad är baserad på nedanstående flikar i Folkhälsomy
 * Totalt antal per kön
 * Totalt antal per åldersgrupp (uppgift saknas är ej medräknat)
 
-Nuvarande version innehåller historik på veckobasis mellan 2020-04-04 och 2023-01-03.
+Nuvarande version innehåller historik på veckobasis mellan 2020-04-04 och 2023-03-21.
+
+För nyare data se: https://www.folkhalsomyndigheten.se/faktablad/fall-covid-19/
 
 Källor
 
